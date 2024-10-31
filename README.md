@@ -28,6 +28,7 @@ El proyecto "Infrarrojo Derroque"  <em>-De Robertis y Choque-</em> consiste en e
 <p><b>Implementación del Sistema de Conteo y Control de LEDs:</b> La implementación del sistema de conteo se realizó mediante el uso de interrupciones en el Arduino, que permiten detectar cada pulso infrarrojo de manera precisa. Cada 10 pulsos, el primer LED se activa como indicativo, y al llegar a 30 pulsos, ambos LEDs se iluminan simultáneamente. Este sistema de indicadores visuales proporciona a los operadores una manera clara y rápida de verificar el conteo en tiempo real, mejorando así la eficiencia del proceso de medición. El diseño del gabinete y la disposición de los componentes fueron cuidadosamente planificados para asegurar que el dispositivo fuera fácil de usar en entornos de trabajo.</p>
 
 <h2>Resultados</h2>
+
 <h2>Conclusiones</h2>
 <h2>Fotografías</h2>
 <h2>Código Fuente</h2>
