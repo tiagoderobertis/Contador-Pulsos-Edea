@@ -36,5 +36,7 @@ Agradecemos enormemente a los trabajadores de Edea del sector laboratorio de med
 
 
 <h2>Contacto</h2>
-Por cualquier duda o consulta, no dude en escribir:
+Por cualquier duda o consulta, no dude en escribir a:
 tiagoderobertis@gmail.com
+choquemauricio124@gmail.com
+
