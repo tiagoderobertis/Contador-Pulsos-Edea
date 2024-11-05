@@ -9,19 +9,29 @@ Mostrar contador con display 7 segmentos, Cada 1, 5 0 10 segundos. En un princip
 void setup() {
   pinMode(LED30, OUTPUT);
   pinMode(LED10, OUTPUT);
-  Serial.begin(9600);
+  pinMode(8, OUTPUT);
+  Serial.begin(9600);    
 }
 
 void loop() {
+
   lectura_sensor = analogRead(sensor);  //Si detecta señal almacena en variable
-   if (lectura_sensor != anterior_lectura) { 
-    if (lectura_sensor >= miliVoltMinimo) {
-      sumar_contador();
+  if (lectura_sensor != anterior_lectura) { // Se distingue entre pulso y pulso, y si es diferente al anterior (0)
+    if (lectura_sensor >= miliVoltMinimo) { // Si la lectura del sensor es mayor o igual a 1000
+      sumar_contador(); 
       verificadorDeModulo(decena, LED10);
       verificadorDeModulo(treintena, LED30);
-      mensaje();
+      anteriorTiempo = millis();
     }
     anterior_lectura = lectura_sensor;
   }
+  // si la lectura del sensor es menor a 1000 y 
+  if (lectura_sensor <= miliVoltMinimo && millis() - anteriorTiempo >= tiempoEnDesuso) { 
+    anteriorTiempo = millis();
+    contador_act = 0;
+    digitalWrite(LED10, LOW);
+    digitalWrite(LED30, LOW);
+    // se reinicia el contador y se apagan los LED
 
+  }
 }
