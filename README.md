@@ -27,7 +27,17 @@ El proyecto "Infrarrojo Derroque"  <em>-De Robertis y Choque-</em> consiste en e
 <p><b>Desarrollo del Programa:</b> El desarrollo del software fue un proceso iterativo, donde se realizaron múltiples pruebas y refactorizaciones para optimizar el código. Inicialmente, se implementaron las funcionalidades básicas, permitiendo la detección y conteo de pulsos. A medida que avanzaba el desarrollo, se identificaron áreas de mejora en la estructura y eficiencia del código, lo que llevó a una serie de refactorizaciones. El objetivo fue llegar a un código limpio, fácil de entender y mantener, que garantizara un funcionamiento rápido y funcional del sistema.</p>
 <p><b>Implementación del Sistema de Conteo y Control de LEDs:</b> La implementación del sistema de conteo se realizó detectando cada pulso infrarrojo de manera precisa. Cada 10 pulsos, el primer LED se activa como indicativo, y al llegar a 30 pulsos, ambos LEDs se iluminan simultáneamente. Este sistema de indicadores visuales proporciona a los operadores una manera clara y rápida de verificar el conteo en tiempo real, mejorando así la eficiencia del proceso de medición. El diseño del gabinete y la disposición de los componentes fueron cuidadosamente planificados para asegurar que el dispositivo fuera fácil de usar en entornos de trabajo.</p>
 
-<h2>Resultados</h2>
+<h2>Fotos del desarrollo</h2>
+
+![WhatsApp Image 2024-10-23 at 14 07 23_1cbeaf80](https://github.com/user-attachments/assets/9c3a15dc-e47c-42da-86cf-3180820afc34)
+
+![WhatsApp Image 2024-11-25 at 13 49 35_55846da4](https://github.com/user-attachments/assets/7c8fd62b-3768-47a2-9433-9341988eefbc)
+
+![WhatsApp Image 2024-11-25 at 13 49 35_f6ebdc32](https://github.com/user-attachments/assets/9e611c27-76c9-423f-906c-2884374a09c1)
+
+![Screenshot 2024-11-25 222406](https://github.com/user-attachments/assets/36d8927e-31b2-4784-b720-f8bce09aa9a1)
+
+
 
 <h2>Código Fuente</h2>
 
