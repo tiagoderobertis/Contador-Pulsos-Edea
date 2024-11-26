@@ -49,13 +49,14 @@ El diseño del gabinete y la disposición de los componentes fueron cuidadosamen
 
 <h2>Fotos del desarrollo</h2>
 
-![WhatsApp Image 2024-10-23 at 14 07 23_1cbeaf80](https://github.com/user-attachments/assets/9c3a15dc-e47c-42da-86cf-3180820afc34)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c3a15dc-e47c-42da-86cf-3180820afc34" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7c8fd62b-3768-47a2-9433-9341988eefbc" width="300"/> </br>
+  <img src="https://github.com/user-attachments/assets/36d8927e-31b2-4784-b720-f8bce09aa9a1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/9e611c27-76c9-423f-906c-2884374a09c1" width="560"/>
+ 
+</p>
 
-![WhatsApp Image 2024-11-25 at 13 49 35_55846da4](https://github.com/user-attachments/assets/7c8fd62b-3768-47a2-9433-9341988eefbc)
-
-![WhatsApp Image 2024-11-25 at 13 49 35_f6ebdc32](https://github.com/user-attachments/assets/9e611c27-76c9-423f-906c-2884374a09c1)
-
-![Screenshot 2024-11-25 222406](https://github.com/user-attachments/assets/36d8927e-31b2-4784-b720-f8bce09aa9a1)
 
 <h2>Agradecimientos</h2>
 Agradecemos enormemente a los trabajadores de Edea del sector laboratorio de mediciones por darnos la oportunidad y la responsabilidad de encargarnos de este proyecto, ayudando también a reforzar este período de practicas profesionalizantes, las cuales nos sirven para recibirnos como técnicos de la Escuela Secundaria Técnica N°3 de Mar del Plata.
